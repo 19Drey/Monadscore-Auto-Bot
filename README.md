@@ -45,4 +45,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - monadscore 
 - monadscore-bot 
 - monadscore-auto-bot
+- monad-testnet 
+- monad-automation 
+- monad-token-earnings 
+- monad-script 
+- monadscore-autofarm 
+- monadscore-reger 
+- monadscore-farmer
 ---
